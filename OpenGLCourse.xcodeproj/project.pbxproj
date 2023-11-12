@@ -26,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		239CAAC32B011465005FB026 /* glm */ = {isa = PBXFileReference; lastKnownFileType = folder; path = glm; sourceTree = "<group>"; };
 		23B290E52AF002E70025A7ED /* OpenGLCourse */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = OpenGLCourse; sourceTree = BUILT_PRODUCTS_DIR; };
 		23B290E82AF002E70025A7ED /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; wrapsLines = 1; };
 		23B290F02AF007870025A7ED /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
@@ -67,6 +68,7 @@
 		23B290E72AF002E70025A7ED /* OpenGLCourse */ = {
 			isa = PBXGroup;
 			children = (
+				239CAAC32B011465005FB026 /* glm */,
 				23B290E82AF002E70025A7ED /* main.cpp */,
 			);
 			path = OpenGLCourse;
